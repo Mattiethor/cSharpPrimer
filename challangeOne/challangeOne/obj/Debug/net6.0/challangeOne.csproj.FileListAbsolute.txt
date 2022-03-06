@@ -1,0 +1,15 @@
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\bin\Debug\net6.0\challangeOne.exe
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\bin\Debug\net6.0\challangeOne.deps.json
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\bin\Debug\net6.0\challangeOne.runtimeconfig.json
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\bin\Debug\net6.0\challangeOne.dll
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\bin\Debug\net6.0\challangeOne.pdb
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.csproj.AssemblyReference.cache
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.AssemblyInfoInputs.cache
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.AssemblyInfo.cs
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.csproj.CoreCompileInputs.cache
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.dll
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\refint\challangeOne.dll
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.pdb
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\challangeOne.genruntimeconfig.cache
+C:\NTV\22V\C#\verkefniEitt\challangeOne\challangeOne\obj\Debug\net6.0\ref\challangeOne.dll

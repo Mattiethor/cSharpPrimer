@@ -1,0 +1,15 @@
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\bin\Debug\net6.0\challangeTwo.exe
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\bin\Debug\net6.0\challangeTwo.deps.json
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\bin\Debug\net6.0\challangeTwo.runtimeconfig.json
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\bin\Debug\net6.0\challangeTwo.dll
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\bin\Debug\net6.0\challangeTwo.pdb
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.csproj.AssemblyReference.cache
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.AssemblyInfoInputs.cache
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.AssemblyInfo.cs
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.csproj.CoreCompileInputs.cache
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.dll
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\refint\challangeTwo.dll
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.pdb
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\challangeTwo.genruntimeconfig.cache
+C:\NTV\22V\C#\verkefniEitt\challangeTwo\challangeTwo\obj\Debug\net6.0\ref\challangeTwo.dll
